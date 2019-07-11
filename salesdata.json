@@ -1,0 +1,27 @@
+{
+  "grossSales": 187832.9,
+  "taxDue": 1196.83,
+  "calculations": 23391,
+  "channels": [
+    {
+      "name": "Amazon",
+      "grossSales": 12301.21,
+      "yoyComparison": 12.3
+    },
+    {
+      "name": "e-Comm",
+      "grossSales": 20391.94,
+      "yoyComparison": -3.4
+    },
+    {
+      "name": "In-store POS",
+      "grossSales": 28849.33,
+      "yoyComparison": 4.7
+    },
+    {
+      "name": "ERP AR",
+      "grossSales": 113492.01,
+      "yoyComparison": 1.2
+    }
+  ]
+}
